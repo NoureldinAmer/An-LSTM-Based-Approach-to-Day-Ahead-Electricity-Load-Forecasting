@@ -1,0 +1,4 @@
+✅ Average MAE: 33.05
+✅ Average RMSE: 40.41
+✅ Average MAPE: 2.70%
+🎯 Average R² Score: 0.9180
